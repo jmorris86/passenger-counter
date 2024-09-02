@@ -14,6 +14,6 @@ function save() {
     count = 0;
 }
 
-function example() {
-    console.log("This is just a test")
+function example2() {
+    console.log("This is a second test")
 }
